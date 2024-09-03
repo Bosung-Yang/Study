@@ -3,6 +3,8 @@
 ## EasyOCR
 https://github.com/JaidedAI/EasyOCR  
 기본적인 cnn+lstm기반의 ocr 라이브러리 
+#### HG 데모
+![image](https://github.com/user-attachments/assets/65b01c48-0b83-4542-80ed-2693c2614bcd)
 
 
 
