@@ -36,8 +36,8 @@ for idx in range(len(result)):
     for line in res:
         print(line)
 ```
-##### 실행시간 : 8.52s, 결과 : 
-![image](https://github.com/user-attachments/assets/21e86e80-0231-429b-bb66-61054d899468)
+##### 실행시간 : 2.27s, 결과 : 
+![image](https://github.com/user-attachments/assets/2bf99816-d949-4f7f-8f86-cfdf93bf2878)
 
 
 
