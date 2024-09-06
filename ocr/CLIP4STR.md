@@ -8,5 +8,6 @@ Vision Language Model (VLM)은 다양한 downstrem에서 강세를 보이고 있
 - visual branch: 시각정보에 대한 초기 예측
 - cross-modal branch: 시각정보와 언어의미간의 불일치도 기반 교정
 
-## 
+## 인트로
+
 
